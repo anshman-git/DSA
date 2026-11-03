@@ -30,6 +30,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ Happy problem solving!
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
+## Math
+|  |
+| ------- |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 <!---LeetCode Topics End-->
