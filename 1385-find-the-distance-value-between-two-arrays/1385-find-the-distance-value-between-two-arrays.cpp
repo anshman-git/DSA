@@ -6,7 +6,10 @@ public:
         for(int i=0;i<arr1.size();i++) {
             bool flag=true;
             for(int j=0;j<arr2.size();j++) {
-                if(abs(arr1[i]-arr2[j]) <= d) flag = false;
+                if(abs(arr1[i]-arr2[j]) <= d) {
+                    flag = false;
+                    break;
+                }
             }
             if(flag) count++;
         }
