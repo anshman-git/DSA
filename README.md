@@ -33,10 +33,12 @@ Happy problem solving!
 | [1672-richest-customer-wealth](https://github.com/anshman-git/DSA/tree/master/1672-richest-customer-wealth) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/anshman-git/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/anshman-git/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
