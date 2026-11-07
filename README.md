@@ -37,15 +37,18 @@ Happy problem solving!
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anshman-git/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshman-git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 ## Math
