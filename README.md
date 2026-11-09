@@ -45,6 +45,7 @@ Happy problem solving!
 | ------- |
 | [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
+| [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +68,8 @@ Happy problem solving!
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshman-git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
