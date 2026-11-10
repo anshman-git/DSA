@@ -29,6 +29,7 @@ Happy problem solving!
 ## Array
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/anshman-git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshman-git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1672-richest-customer-wealth](https://github.com/anshman-git/DSA/tree/master/1672-richest-customer-wealth) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
@@ -38,6 +39,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/anshman-git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anshman-git/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## String
@@ -50,6 +52,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
+| [1331-rank-transform-of-an-array](https://github.com/anshman-git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshman-git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 ## Math
