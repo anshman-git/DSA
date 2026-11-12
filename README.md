@@ -58,6 +58,7 @@ Happy problem solving!
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshman-git/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3959-check-good-integer](https://github.com/anshman-git/DSA/tree/master/3959-check-good-integer) |
 ## Matrix
