@@ -31,6 +31,7 @@ Happy problem solving!
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/anshman-git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshman-git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1550-three-consecutive-odds](https://github.com/anshman-git/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/anshman-git/DSA/tree/master/1672-richest-customer-wealth) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
