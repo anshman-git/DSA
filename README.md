@@ -63,6 +63,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshman-git/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/anshman-git/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshman-git/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/anshman-git/DSA/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -85,4 +86,8 @@ Happy problem solving!
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/anshman-git/DSA/tree/master/3959-check-good-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/anshman-git/DSA/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
