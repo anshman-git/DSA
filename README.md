@@ -67,6 +67,7 @@ Happy problem solving!
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshman-git/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/anshman-git/DSA/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/anshman-git/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshman-git/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3959-check-good-integer](https://github.com/anshman-git/DSA/tree/master/3959-check-good-integer) |
 ## Matrix
