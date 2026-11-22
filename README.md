@@ -50,6 +50,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anshman-git/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
