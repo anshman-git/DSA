@@ -37,6 +37,7 @@ Happy problem solving!
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anshman-git/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2974-minimum-number-game](https://github.com/anshman-git/DSA/tree/master/2974-minimum-number-game) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/anshman-git/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/anshman-git/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Hash Table
@@ -60,6 +61,7 @@ Happy problem solving!
 | [1331-rank-transform-of-an-array](https://github.com/anshman-git/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshman-git/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
+| [2974-minimum-number-game](https://github.com/anshman-git/DSA/tree/master/2974-minimum-number-game) |
 ## Math
 |  |
 | ------- |
@@ -86,10 +88,15 @@ Happy problem solving!
 ## Simulation
 |  |
 | ------- |
+| [2974-minimum-number-game](https://github.com/anshman-git/DSA/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/anshman-git/DSA/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/anshman-git/DSA/tree/master/1486-xor-operation-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/anshman-git/DSA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
