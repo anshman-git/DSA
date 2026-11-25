@@ -34,6 +34,7 @@ Happy problem solving!
 | [1550-three-consecutive-odds](https://github.com/anshman-git/DSA/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/anshman-git/DSA/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/anshman-git/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshman-git/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/anshman-git/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -51,6 +52,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshman-git/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anshman-git/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
