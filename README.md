@@ -74,6 +74,7 @@ Happy problem solving!
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/anshman-git/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/anshman-git/DSA/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/anshman-git/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3360-stone-removal-game](https://github.com/anshman-git/DSA/tree/master/3360-stone-removal-game) |
 | [3959-check-good-integer](https://github.com/anshman-git/DSA/tree/master/3959-check-good-integer) |
 ## Matrix
 |  |
@@ -91,6 +92,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/anshman-git/DSA/tree/master/2974-minimum-number-game) |
+| [3360-stone-removal-game](https://github.com/anshman-git/DSA/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshman-git/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3959-check-good-integer](https://github.com/anshman-git/DSA/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
