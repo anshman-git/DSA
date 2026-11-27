@@ -52,6 +52,7 @@ Happy problem solving!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/anshman-git/DSA/tree/master/0242-valid-anagram) |
+| [0709-to-lower-case](https://github.com/anshman-git/DSA/tree/master/0709-to-lower-case) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/anshman-git/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/anshman-git/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2418-sort-the-people](https://github.com/anshman-git/DSA/tree/master/2418-sort-the-people) |
